@@ -43,4 +43,4 @@ George Eastman
 The Brownie invented low-cost photography by introducing the concept of the snapshot to the masses.
 
 ## Process
-Photographs taken with the cameras are on a roll of film, then sent into Kodak for processing
+Photographs taken with the cameras are on a roll of film, then sent into Kodak for processing.
